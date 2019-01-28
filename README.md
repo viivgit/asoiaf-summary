@@ -9,7 +9,7 @@ Novels included so far are:
 * A Dance with Dragons
 
 The final products, i.e. the eBooks and the PDF, are not included here, this is just the code used to make them.
-To download them, see the last available release I posted [**here**](https://www.reddit.com/r/asoiaf/comments/8zki6e/spoilers_main_update_v11_ebookpdf_summary_of_all/) on Reddit .
+To download them, see the last available release I posted [**here**](https://www.reddit.com/r/asoiaf/comments/akq4vd/spoilers_main_update_v12_ebookpdf_summary_of_all/) on Reddit .
 
 # Notes #
 The code so far just works on Windows, but for any UNIX system, you just need to replace the `.bat` file with a shell file that fits your system, it should be pretty straightforward.
