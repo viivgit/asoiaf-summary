@@ -22,7 +22,7 @@ You also **need to have [**Calibre**](https://calibre-ebook.com/) installed** to
 
 **IMPORTANT:** This code downloads data from AWOIAF (about 350 HTML pages) each time it is run, and even though it is only a couple MB large, doing so repeatedly _is not advised_.
 
-Once again, if you just want the final product (the eBooks, or the PDF), refer to the Reddit [**page**](https://www.reddit.com/r/asoiaf/comments/8zki6e/spoilers_main_update_v11_ebookpdf_summary_of_all/), since they are not contained here.
+Once again, if you just want the final product (the eBooks, or the PDF), refer to the Reddit [**page**](https://www.reddit.com/r/asoiaf/comments/akq4vd/spoilers_main_update_v12_ebookpdf_summary_of_all/), since they are not contained here.
 
 The purpose of this code is just to show how it is done to anyone interested, ideally it should only be run once every few months, since the data on the Wiki is unlikely to change drastically in short time frames, and the final products are already  pretty complete as of early 2019.
 
