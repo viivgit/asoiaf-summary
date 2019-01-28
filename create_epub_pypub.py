@@ -16,7 +16,7 @@ import shutil
 def noclean(a):
     return a
 
-shutil.copy('./first page to add to Calibre.html','./clean/first page to add to Calibre.html')
+shutil.copy('./first_page_to_add_to_Calibre.html','./clean/first page to add to Calibre.html')
 
 #os.chdir('../html_clean')
 with open('index_including_first_page.html','r') as index:
