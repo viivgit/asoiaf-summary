@@ -24,7 +24,7 @@ You also **need to have [**Calibre**](https://calibre-ebook.com/) installed** to
 
 Once again, if you just want the final product (the eBooks, or the PDF), refer to the Reddit [**page**](https://www.reddit.com/r/asoiaf/comments/8zki6e/spoilers_main_update_v11_ebookpdf_summary_of_all/), since they are not contained here.
 
-The purpose of this code is just to show how it is done to anyone interested, ideally it should only be run once every few months, since the data on the Wiki is unlikely to change drastically in short timeframes, and the final products are already  pretty complete as of early 2019.
+The purpose of this code is just to show how it is done to anyone interested, ideally it should only be run once every few months, since the data on the Wiki is unlikely to change drastically in short time frames, and the final products are already  pretty complete as of early 2019.
 
 **LICENSE OF THE OUTPUT FILES:** The output files are all under the [**CC-BY-SA 3.0**](https://creativecommons.org/licenses/by-sa/3.0/) license, as indicated on the Credits page inside each of them.
 
@@ -34,7 +34,7 @@ Run `script_to_run.bat`. That is all, there is nothing else to do.
 It will:
 * download the HTML files necessary (and only them)
 * clean them so that only the text remains, and a few other pieces of information such as a small Navigation section, and the places where the chapter takes place
-* build an Epub with a cover and Table of contents out of the cleaned files
+* build an Epub with a cover and Table of Contents out of the cleaned files
 * convert that Epub to AZW3 (for Kindle), MOBI (for older e-readers not supporting Epub), and PDF
 * the files produced will appear in the folder where you downloaded the code with the file name `asoiaf-summary` and their respective extensions
 
